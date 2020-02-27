@@ -1684,3 +1684,14 @@ p.copy-right-grids a:hover {
 }
 
 /* //responsive */
+
+.income_statement{
+	text-align: center;
+}
+.income_statement th{
+	color: #FF0101;
+		text-align: center;
+}
+.income_statement td:nth-child(6){
+	color: #C20101;
+}
